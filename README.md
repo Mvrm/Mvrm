@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Machine Learning, focused on Financial services
 - 🌱 I’m currently learning NLP and Deep Learning
 - 📫 How to reach me: https://www.linkedin.com/in/manishvrmv/
-- ⚡ Fun fact: Done 7 Half Marathons (n counting..) and travelled 14 countries (Solo) 
+- ⚡ Fun fact: completed 7 Half Marathons (n counting..)
 
 
 <!--
