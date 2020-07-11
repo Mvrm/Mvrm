@@ -1,4 +1,4 @@
-###  👋 Hi I'm Manish
+###  👋 Hi I'm Manish Verma
 
 - 🔭 I’m currently working on Machine Learning (focused on Financial services)
 - 🌱 I’m currently learning NLP and Deep Learning
