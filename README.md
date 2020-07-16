@@ -5,7 +5,7 @@
 - ⚡ Fun fact: completed 7 Half Marathons (n counting..)
 
 - 📫 How to reach me:
-
+  <br>
   <a href="https://www.linkedin.com/in/manishvrmv/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -14,7 +14,9 @@
   </a>
   <a href="https://www.instagram.com/manishvrmv/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  </a>
+  </br>
+
 <!--
 **Mvrm/Mvrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
