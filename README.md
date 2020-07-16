@@ -12,6 +12,9 @@
   <a href="https://twitter.com/manishvermav">
   <img align="left" alt="Manish Verma| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
+  <a href="https://www.instagram.com/manishvrmv/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <!--
 **Mvrm/Mvrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
