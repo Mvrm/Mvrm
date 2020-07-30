@@ -1,6 +1,6 @@
 ###  👋 Hi I'm Manish Verma
 
-- 🔭 I’m currently working on Machine Learning - Finance
+- 🔭 I’m currently working on Machine Learning
 
 - 🌱 I’m currently learning NLP and Deep Learning
 - ⚡ Fun fact: completed 7 Half Marathons (n counting..)
