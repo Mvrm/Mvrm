@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on Machine Learning - Finance
+- 🔭 I’m currently working on Machine Learning (Finance domain)
 
 - 🌱 I’m currently learning **NLP and Deep Learning**
 
