@@ -14,7 +14,8 @@ src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tens
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrm&layout=compact&hide=html" alt="mvrm" /></p>
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/manishvrmv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manishvrmv" height="30" width="30" /></a>
+  
 <a href="https://twitter.com/manishvermav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="manishvrmv" height="30" width="30" /></a>  
 </p>
