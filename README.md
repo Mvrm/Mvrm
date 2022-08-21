@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manish Verma</h1>
-<h3 align="center">Data Science | Machine Learning | Strategy</h3>
+<h3 align="center"></h3>
 
+**About me**
 
+- ❤️ Passionate about **Data Science, Machine Learning and Strategy**
 
 - 🔭 Applied **Machine Learning in Financial Services**
 
-- 🌱 I’m currently learning **NLP and Deep Learning**
+- 🌱 I’m currently learning **MLOPs**
 
 <BR>
 
