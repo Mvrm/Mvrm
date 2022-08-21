@@ -24,4 +24,4 @@ src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws"
 <a href="https://twitter.com/manishvermav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="manishvrmv" height="30" width="30" /></a>  
 </p>
 
-[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvrm)](https://github.com/anuraghazra/github-readme-stats)
+[![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mvrm)](https://github.com/mvrm/github-readme-stats)
