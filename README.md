@@ -32,5 +32,6 @@ src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws"
  
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mvrm&theme=react&line_height=40&hide=css"/> </a>
 
-![Manis's GitHub stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mvrm&show_icons=true&bg_color=00000000&theme=react&line_height=40&hide=css"/> </a>
+![Manis's GitHub stats]
+ <img alt="Manis's GitHub stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Mvrm&show_icons=true&bg_color=00000000&theme=react&line_height=40&hide=css"/> </a>
  
