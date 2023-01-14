@@ -19,9 +19,11 @@ src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" widt
 src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> <img 
 src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
 
+<!---  
+ 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrm&layout=compact&hide=html" alt="mvrm" /></p>
 
-<!--- 
+
  <p align="left">
 <a href="https://linkedin.com/in/manishvrmv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manishvrmv" height="30" width="30" /></a>
 <a href="https://twitter.com/manishvermav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="manishvrmv" height="30" width="30" /></a>  
