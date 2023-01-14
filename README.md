@@ -9,6 +9,9 @@
 
 - 🌱 I’m currently learning **MLOPs**
 
+<a href="https://linkedin.com/in/manishvrmv"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="manishvrmv" height="30" width="30" /></a>
+
+
 <BR>
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img 
@@ -30,7 +33,7 @@ src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws"
 </p>
 --->
 
-<a href="https://linkedin.com/in/manishvrmv"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="manishvrmv" height="30" width="30" /></a>
+
  
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mvrm&theme=react&line_height=40&hide=css"/> </a>
 
