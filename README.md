@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MLOPs**
 
-- 🌱 Feel free to connect me at <a href="https://linkedin.com/in/manishvrmv"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="manishvrmv" height="30" width="30" /></a>
+- 💼 Feel free to connect me at <a href="https://linkedin.com/in/manishvrmv"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="manishvrmv" height="30" width="30" /></a>
 
 
 <BR>
