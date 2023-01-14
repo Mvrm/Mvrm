@@ -5,7 +5,7 @@
 
 - ❤️ Passionate about **Data Science, Machine Learning and Strategy**
 
-- 🔭 Applied **Machine Learning in Financial Services**
+- 📈 Applied **Machine Learning in Financial Services**
 
 - 🌱 I’m currently learning **MLOPs**
 
