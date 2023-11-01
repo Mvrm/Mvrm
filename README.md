@@ -3,11 +3,11 @@
 
 **About me**
 
-- ❤️ Passionate about **Data Science, Machine Learning and Strategy**
+- ❤️ Passionate about **Data Science, Machine Learning, Generative AI and Strategy**
 
-- 📈 Applied **Machine Learning in Financial Services**
+- 📈 Applied **Data Science & Machine Learning in Financial Services**
 
-- 🌱 I’m currently learning **MLOPs**
+- 🌱 I’m currently learning **Generative AI & LLMs**
 
 - 💬 Feel free to connect me at <a href="https://linkedin.com/in/manishvrmv"> <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="manishvrmv" height="30" width="30" /></a>
 
